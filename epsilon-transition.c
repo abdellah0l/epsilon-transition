@@ -1,5 +1,5 @@
 
-// studnet names : Abdellah Maamra, Abdelouahed Fellah
+// studnet names : Abdellah Maamra, Abdelouahed Fellah, Aymen abdelmadjid Lachi
 
 #include <stdio.h>
 #include <stdlib.h>
